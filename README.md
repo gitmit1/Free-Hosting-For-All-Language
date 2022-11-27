@@ -2,28 +2,28 @@ Hello My Friend 👋
 
 If you need free hosting, do the following steps carefully 📰
 
-Step 1:
+# Step 1:
 
 Go to The https://www.heroku.com/ 🔗
 
-Step 2:
+# Step 2:
 
 Create Account in heroku 💾
 
 ![image](https://user-images.githubusercontent.com/110986239/202133109-80b49e33-d76a-4e97-9f30-19858ce0d22c.png)
 
-Step 3: 
+# Step 3: 
 
 Verify Your Email 🔑
 
-Step 4:
+# Step 4:
 
 Create Account In Github 🤖
 
 ![image](https://user-images.githubusercontent.com/110986239/202133696-9f875351-ee7e-416c-a76a-e19f2b2572e2.png)
 
 
-Step 5:
+# Step 5:
 
 Create New Repository (Private) 📰 
 
@@ -56,7 +56,7 @@ If You See this files It means you did your job right 😎
 ![image](https://user-images.githubusercontent.com/110986239/202139700-b434648b-9007-4ce8-9e2d-dadfea1506be.png)
 
 
-Step 6:
+# Step 6:
 
 Go To The heroku And Create New App 📱
 
@@ -64,13 +64,13 @@ Go To The heroku And Create New App 📱
 
 ![image](https://user-images.githubusercontent.com/110986239/202136337-288eb481-37f3-441e-a8cf-8c697d30c08d.png)
 
-Step 7:
+# Step 7:
 
 Connect Your Github To Heroku And Search Your Repository And Select That 🦝
 
 ![image](https://user-images.githubusercontent.com/110986239/202136924-52af1bd2-3bf1-4489-90ef-dc5cdf21b56d.png)
 
-Step 8:
+# Step 8:
 
 Check Enable "Wait for CI to pass before deploy" and Tab To Enable Automatic Deploys 
 
@@ -82,7 +82,7 @@ Wait For Full Installation
 
 ![image](https://user-images.githubusercontent.com/110986239/202137562-7184a048-ba85-487a-a797-411526c91e1c.png)
 
-Step 9:
+# Step 9:
 
 Click To The Resources Tab 🖥
 
@@ -101,9 +101,13 @@ Tab To Confirm 💾
 
 Close The Heroku And GitHub
 
-Step 10:
+Warning: **This Method Dident Work For Discord Bots**
+
+# Step 10:
 
 Enjoy 😎
+
+
 
 
 
